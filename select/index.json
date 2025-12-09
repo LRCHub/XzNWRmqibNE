@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Smooth Criminal",
+  "base_artist": "Michael Jackson",
+  "createdAt": "2025-12-09T13:28:00.246916Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Smooth Criminal",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/01_Smooth_Criminal_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Smooth Criminal",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/02_Smooth_Criminal_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Smooth Criminal",
+      "artist": "Alien Ant Farm",
+      "has_synced": true,
+      "path": "select/03_Smooth_Criminal_Alien_Ant_Farm.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Smooth Criminal (live in Denver)",
+      "artist": "Alien Ant Farm",
+      "has_synced": false,
+      "path": "select/04_Smooth_Criminal_(live_in_Denver)_Alien_Ant_Farm.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Smooth Criminal",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/05_Smooth_Criminal_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Smooth Criminal",
+      "artist": "Alien Ant Farm",
+      "has_synced": true,
+      "path": "select/06_Smooth_Criminal_Alien_Ant_Farm.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Smooth Criminal - 2012 Remaster",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/07_Smooth_Criminal_-_2012_Remaster_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Smooth Criminal (2012 Remaster)",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/08_Smooth_Criminal_(2012_Remaster)_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Smooth Criminal (Glee Cast Version) (feat. 2CELLOS)",
+      "artist": "Glee Cast",
+      "has_synced": true,
+      "path": "select/09_Smooth_Criminal_(Glee_Cast_Version)_(feat._2CELLOS)_Glee_Cast.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Smooth Criminal",
+      "artist": "Glee Cast",
+      "has_synced": true,
+      "path": "select/10_Smooth_Criminal_Glee_Cast.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Smooth Criminal - Remastered Radio Edit",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/11_Smooth_Criminal_-_Remastered_Radio_Edit_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Smooth Criminal (Remastered)",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/12_Smooth_Criminal_(Remastered)_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Smooth Criminal",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/13_Smooth_Criminal_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Smooth Criminal",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/14_Smooth_Criminal_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Smooth Criminal",
+      "artist": "Alien Ant Farm",
+      "has_synced": true,
+      "path": "select/15_Smooth_Criminal_Alien_Ant_Farm.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Smooth Criminal",
+      "artist": "Michael Jackson",
+      "has_synced": false,
+      "path": "select/pl_01_Smooth_Criminal_Michael_Jackson.txt"
+    }
+  ]
+}
